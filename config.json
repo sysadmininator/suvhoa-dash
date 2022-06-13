@@ -1,20 +1,20 @@
 {
-	"title" : "Simple Dash",
+	"title" : "SUVHOA Dash",
 	"items" : [
 		{
-			"alt" : "Github",
+			"alt" : "Edit Site",
 			"icon" : "fab fa-github",
-			"link" : "https://github.com/kutyla-philipp"
+			"link" : "https://github.com/sysadmininator/suvhoa/tree/gh-pages/_posts"
 		},
 		{
-			"alt" : "Twitter",
-			"icon" : "fab fa-twitter",
-			"link" : "https://twitter.com/Kukielka_"
+			"alt" : "Email",
+			"icon" : "fab fa-google",
+			"link" : "https://mail.google.com"
 		},
 		{
-			"alt" : "Docker Hub",
-			"icon" : "fab fa-docker",
-			"link" : "https://hub.docker.com/u/kukielka/"
+			"alt" : "Read Me!",
+			"icon" : "fab fa-leanpub",
+			"link" : "https://github.com/sysadmininator/suvhoa/blob/gh-pages/README.md"
 		}
 	]
 }
